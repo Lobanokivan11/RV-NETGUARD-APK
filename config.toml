@@ -9,3 +9,7 @@ parallel-jobs = 1
 [Netguard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
 build-mode = "both"
+cli-source = "ReVanced/revanced-cli"
+patches-source = "ReVanced/revanced-patches"
+cli-version = "dev"
+patches-version = "dev"
