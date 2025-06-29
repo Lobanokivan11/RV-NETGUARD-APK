@@ -1,0 +1,11 @@
+[
+  {
+    "patchName": "Spoof app signature",
+    "options": [
+      {
+        "key": "spoofedAppSignature",
+        "value": null
+      }
+    ]
+  }
+]
