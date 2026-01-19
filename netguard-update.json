@@ -1,6 +1,6 @@
 {
-  "version": "v2.333 (patches: dev.9)",
-  "versionCode": 332,
-  "zipUrl": "https://github.com/Lobanokivan11/RV-NETGUARD-APK/releases/download/332/netguard-revanced-magisk-v2.333-all.zip",
+  "version": "v2.333 (patches: 5.48.0)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/Lobanokivan11/RV-NETGUARD-APK/releases/download/1/netguard-revanced-magisk-v2.333-all.zip",
   "changelog": "https://raw.githubusercontent.com/Lobanokivan11/RV-NETGUARD-APK/update/build.md"
 }
